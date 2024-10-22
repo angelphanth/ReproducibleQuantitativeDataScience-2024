@@ -32,15 +32,15 @@ Submit your coursework via e-mail to Cyril and Melanie three weeks before the ne
 
 ### Day 3 - Better coding 
 
-- [Feedback on coursework and discuss further issues to make your PhD reproducible](./lecture_slides/2.5_Feedback_2024.pdf) (MG, CP)
+- [Feedback on coursework and discuss further issues to make your PhD reproducible](./lecture_slides/2.05_Feedback_2024.pdf) (MG, CP)
 - [Programming](./lecture_slides/2.01_Programming.pdf) (CP)
-- [Good coding practices](./lecture_slides/2.2_Better_coding.pdf) (CP) 
+- [Good coding practices](./lecture_slides/2.02_Better_coding.pdf) (CP) 
 - [An introduction to computational analysis methods](./lecture_slides/2.03_Computational_analysis_methods.pdf): permutation, bootstrap, cross-validation, out-of-sample generalization (MG)
 - Understanding p-values (see [notebook](https://github.com/melanieganz/ReproducibleQuantitativeDataScience-2024/blob/main/p_values/p_values.ipynb))
 
 ### Day 4 - Better analyses 
 
-- [Computational reproducibility](https://files.inm7.de/mih/pres/talks/rdm_reproducibility_copenhagen2023.html#/) lecture and practical all morning (MH, MG & CP as helpers).
+- [Computational reproducibility](https://files.inm7.de/mih/talks/computational-reproduccibility-in-practice) lecture and practical all morning (MH, MG & CP as helpers).
 - [P-hacking] your data (CP)
 - Time to update your code - push code here, review each other work, present, discuss with teachers (students do the work)
 
